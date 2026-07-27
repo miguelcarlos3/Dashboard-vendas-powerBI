@@ -50,7 +50,7 @@ Criação de medidas e cálculos para obtenção de indicadores como:
 
 ## 📷 Dashboard
 
-![Dashboard](dashboard de vendas.png)
+![Dashboard](dashboard-vendas.png)
 
 ---
 
