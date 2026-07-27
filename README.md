@@ -50,8 +50,6 @@ Criação de medidas e cálculos para obtenção de indicadores como:
 
 ## 📷 Dashboard
 
-> Adicione aqui a imagem do dashboard.
-
 ![Dashboard](dashboard-vendas.png)
 
 ---
@@ -69,8 +67,3 @@ Criação de medidas e cálculos para obtenção de indicadores como:
 Este projeto foi desenvolvido com o propósito de demonstrar conhecimentos em Business Intelligence (BI), modelagem de dados, Power Query e DAX, aplicando boas práticas na construção de dashboards para análise de desempenho de vendas.
 
 ---
-
-## 👨‍💻 Autor
-
-**Miguel Santos**
-GitHub: [github.com/miguelcarlos3](https://github.com/miguelcarlos3)
